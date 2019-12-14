@@ -1,2 +1,2 @@
 # infa_2019_lokerty
-qwe)
+print('qweqwe')
